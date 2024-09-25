@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4FC5E739-4699-7B76-0EFB-FA650FA83496}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eab8f3ff-71ff-4a2f-b9c9-79ab06606b48" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Game/Scripts/Bot.cs">
+    <Files>
+      <File FileName="Assets/StateMachine/CharacterStateMC.cs" Line="11" Column="46" IsPinned="True" />
+      <File FileName="Assets/_Game/Scripts/Bot.cs" Line="78" Column="24" IsPinned="True" />
+      <File FileName="Assets/_Game/Scripts/Character.cs" Line="35" Column="37" IsPinned="True" />
+      <File FileName="Assets/_Game/Scripts/Player.cs" Line="119" Column="23" IsPinned="True" />
+      <File FileName="Assets/_Game/Scripts/Brick.cs" Line="21" Column="1" IsPinned="True" />
+      <File FileName="Assets/_Game/Scripts/BrickBridge.cs" Line="19" Column="1" IsPinned="True" />
+      <File FileName="../Downloads/PlayerController.cs" Line="243" Column="77" />
+      <File FileName="Assets/StateMachine/IState.cs" />
+      <File FileName="Assets/EasyJoystick/Scripts/Joystick.cs" />
+      <File FileName="Assets/_UI/Scripts/Setting.cs" />
+      <File FileName="Assets/StateMachine/AttackState.cs" />
+      <File FileName="../StackMaker_VuAnhDuc/Assets/Script/CameraFollow.cs" />
+      <File FileName="Assets/_Pool/Pool/SimplePool.cs" />
+      <File FileName="Assets/_Pool/Bullet.cs" />
+      <File FileName="Assets/_Pool/Guner.cs" />
+      <File FileName="Assets/_Pool/Pool/MiniPool.cs" />
+      <File FileName="Assets/_Pool/Pool/GameUnit.cs" />
+      <File FileName="Assets/_Game/Scripts/CameraFollow.cs" />
+      <File FileName="Assets/_Game/Scripts/ColorTypeSO.cs" />
+      <File FileName="Assets/_Game/Scripts/ColorType.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
